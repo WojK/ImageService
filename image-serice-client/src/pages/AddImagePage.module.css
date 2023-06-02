@@ -1,0 +1,39 @@
+.main {
+    margin: 3.5rem auto;
+    width: 75vh;
+    border: 1px solid #43A6DC;
+    border-radius: 2rem;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.fileChoose {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    
+}
+
+.btn {
+    font: inherit;
+    border: 1px solid black;
+    color: black;
+    font-weight: bold;
+    padding: 0.5rem 1.5rem;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 1.5rem;
+}
+
+
+.customSelect {
+    display: block;
+    width: 15rem;
+    margin-top: 1.5rem;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.customSelect option {
+    font-weight: bold;
+}
